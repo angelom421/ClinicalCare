@@ -1,0 +1,14 @@
+.form-control{
+    border:none;
+    border-bottom: 1px solid black;
+    border-radius: 0ch;
+    padding:0ch;
+    margin-top: 5px;
+
+}
+.btn{
+    border-radius: .5ch;
+}
+.btn:hover{
+    transform: scale(0.99);
+}
